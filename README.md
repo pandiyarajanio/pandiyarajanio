@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN , React Native**
+- 💬 Ask me about **MERN , Python & Django**
 
 - 📫 How to reach me **pandiyarajaniosde@gmail.com**
 
